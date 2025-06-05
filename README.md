@@ -16,7 +16,7 @@ Se puede verificar la instalación de la siguente manera:
 
 Además, verificar que existan las variables de entorno para cada programa instalado:
 
-![[image1](https://github.com/aldanacase/propiedades-app/raw/main/img/Captura%20de%20pantalla%202025-05-30%20224649.png)
+![image1](https://github.com/aldanacase/propiedades-app/raw/main/img/Captura%20de%20pantalla%202025-05-30%20224649.png)
 
 Composer sirve para administrar la dependencias de laravel. (como npm)
 - Tener el instalador de Laravel (para obtenerlo: `composer global require laravel/installer`)
