@@ -12,11 +12,11 @@ Es un framework para PHP, se pueden desarrollar sistemas de login/ CRUD, BD.
     - https://getcomposer.org/download/ (Composer)
 
 Se puede verificar la instalación de la siguente manera:
-![image](image.png)
+![image.png](https://github.com/aldanacase/propiedades-app/raw/main/img/Captura%20de%20pantalla%202025-05-30%20223650.png)
 
 Además, verificar que existan las variables de entorno para cada programa instalado:
 
-![image1](image-1.png)
+![[image1](https://github.com/aldanacase/propiedades-app/raw/main/img/Captura%20de%20pantalla%202025-05-30%20224649.png)
 
 Composer sirve para administrar la dependencias de laravel. (como npm)
 - Tener el instalador de Laravel (para obtenerlo: `composer global require laravel/installer`)
